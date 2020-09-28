@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<persons>
+<person>
+  <personCode>19f80j</personCode>
+  <firstName> John</firstName>
+  <lastName>Smith</lastName>
+  <address>
+    <street>9120 Gregory Lane</street>
+    <city>Stuart</city>
+    <state>FL</state>
+    <zip>34997</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>johnny@gmail.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>asdfjkl</personCode>
+  <firstName> Brock</firstName>
+  <lastName>Hampton</lastName>
+  <address>
+    <street>581 Roehampton Rd.</street>
+    <city>Burlington</city>
+    <state>MA</state>
+    <zip>01803</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>bhamp@hotmail.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>iqnowo</personCode>
+  <firstName> Harriett</firstName>
+  <lastName>Marshall</lastName>
+  <address>
+    <street>71 Holly Court</street>
+    <city>Baldwinsville</city>
+    <state>NY</state>
+    <zip>13027</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>marsha12@yahoo.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>1j0jjj</personCode>
+  <firstName> Camron</firstName>
+  <lastName>Hamer</lastName>
+  <address>
+    <street>29 Albany Drive</street>
+    <city>Falls Church</city>
+    <state>VA</state>
+    <zip>22041</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>hamer83@windstream.net</string>
+  </emails>
+</person>
+<person>
+  <personCode>10fhjla</personCode>
+  <firstName> Bobbie</firstName>
+  <lastName>Sears</lastName>
+  <address>
+    <street>40 Bohemia St.</street>
+    <city>Parlin</city>
+    <state>NJ</state>
+    <zip>08859</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>bsears@gmail.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>ajopj2</personCode>
+  <firstName> Kirstie</firstName>
+  <lastName>Blevins</lastName>
+  <address>
+    <street>7204 Chestnut Street</street>
+    <city>Merrillville</city>
+    <state>IN</state>
+    <zip>46410</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>blev@gmail.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>alka</personCode>
+  <firstName> Kaeden</firstName>
+  <lastName>Brown</lastName>
+  <address>
+    <street>675 Vermont Street</street>
+    <city>Lakeland</city>
+    <state>FL</state>
+    <zip>33801</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>kaedenbrown2@gmail.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>fjow</personCode>
+  <firstName> Ellenor</firstName>
+  <lastName>Jeffery</lastName>
+  <address>
+    <street>63 SE. Mayflower Drive</street>
+    <city>Orlando</city>
+    <state>FL</state>
+    <zip>32806</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>jeff@yahoo.com</string>
+    <string>ellyj05@gmail.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>f1p02</personCode>
+  <firstName> Zachary</firstName>
+  <lastName>Lambert</lastName>
+  <address>
+    <street>8287 S. Lees Creek Street</street>
+    <city>Kissimmee</city>
+    <state>FL</state>
+    <zip>34741</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>lamb567@gmail.com</string>
+  </emails>
+</person>
+<person>
+  <personCode>j1ojl</personCode>
+  <firstName> Douglas</firstName>
+  <lastName>Nolan</lastName>
+  <address>
+    <street>9920 Manor Station Dr.</street>
+    <city>Santa Monica</city>
+    <state>CA</state>
+    <zip>90403</zip>
+    <country>USA</country>
+  </address>
+  <emails/>
+</person>
+<person>
+  <personCode>hhghh</personCode>
+  <firstName> Emanuel</firstName>
+  <lastName>Day</lastName>
+  <address>
+    <street>221 North Lafayette St.</street>
+    <city>Austin</city>
+    <state>MN</state>
+    <zip>55912</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>eday@hotmail.com</string>
+  </emails>
+</person>
+</persons>

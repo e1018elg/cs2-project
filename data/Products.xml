@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<products>
+<product>
+  <productCode>jpaovoi</productCode>
+  <productType>R</productType>
+  <productLabel>2017 Subaru Forester</productLabel>
+  <dailyCost>80.5</dailyCost>
+  <deposit>500.0</deposit>
+  <cleaningFee>29.89</cleaningFee>
+</product>
+<product>
+  <productCode>asdfa134</productCode>
+  <productType>F</productType>
+  <productLabel>Headlight Replacement</productLabel>
+  <partsCost>20.0</partsCost>
+  <hourlyLaborCost>30.0</hourlyLaborCost>
+</product>
+<product>
+  <productCode>1jova</productCode>
+  <productType>C</productType>
+  <productLabel>8-inch Pizza</productLabel>
+  <unitCost>4.99</unitCost>
+</product>
+<product>
+  <productCode>aoifno1</productCode>
+  <productType>T</productType>
+  <productLabel>Tow &gt; 20 Miles</productLabel>
+  <costPerMile>3.5</costPerMile>
+</product>
+<product>
+  <productCode>19jf</productCode>
+  <productType>R</productType>
+  <productLabel>1999 Honda Civic</productLabel>
+  <dailyCost>48.75</dailyCost>
+  <deposit>200.0</deposit>
+  <cleaningFee>15.78</cleaningFee>
+</product>
+<product>
+  <productCode>aaaaa</productCode>
+  <productType>F</productType>
+  <productLabel>Windshield Replacement</productLabel>
+  <partsCost>500.0</partsCost>
+  <hourlyLaborCost>50.0</hourlyLaborCost>
+</product>
+<product>
+  <productCode>2ohriojv</productCode>
+  <productType>C</productType>
+  <productLabel>Bottled Water</productLabel>
+  <unitCost>2.99</unitCost>
+</product>
+<product>
+  <productCode>91hfja</productCode>
+  <productType>T</productType>
+  <productLabel>Tow &lt; 20 Miles</productLabel>
+  <costPerMile>7.0</costPerMile>
+</product>
+</products>

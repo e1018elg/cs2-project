@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<customers>
+<customer>
+  <customerCode>pnvgts</customerCode>
+  <customerType>B</customerType>
+  <customerName>Miller Blake</customerName>
+  <contactCode>1465a</contactCode>
+  <address>
+    <street>12 Brookside Dr.</street>
+    <city> Carlisle</city>
+    <state> PA</state>
+    <zip> 17013</zip>
+    <country> USA</country>
+  </address>
+</customer>
+<customer>
+  <customerCode>svthds</customerCode>
+  <customerType>P</customerType>
+  <customerName>Johnnys Leased Cars</customerName>
+  <contactCode>srdfe21</contactCode>
+  <address>
+    <street>30 N. Orchard St.</street>
+    <city> Roswell</city>
+    <state> GA</state>
+    <zip> 30075</zip>
+    <country> USA</country>
+  </address>
+</customer>
+<customer>
+  <customerCode>4211c0d3</customerCode>
+  <customerType>B</customerType>
+  <customerName>Dipping Painted Cars</customerName>
+  <contactCode>l4dfg4</contactCode>
+  <address>
+    <street>198 Corona St.</street>
+    <city> Danbury</city>
+    <state> CT</state>
+    <zip> 06810</zip>
+    <country> USA</country>
+  </address>
+</customer>
+<customer>
+  <customerCode>asew29</customerCode>
+  <customerType>P</customerType>
+  <customerName>Collio Industries Incorp</customerName>
+  <contactCode>blkd45</contactCode>
+  <address>
+    <street>9899 Gonzales Ave.</street>
+    <city>Rocky Mount</city>
+    <state> NC</state>
+    <zip> 27804</zip>
+    <country> USA</country>
+  </address>
+</customer>
+<customer>
+  <customerCode>56tycdf</customerCode>
+  <customerType>B</customerType>
+  <customerName>Functions Automobiles</customerName>
+  <contactCode>f43cl</contactCode>
+  <address>
+    <street>62 Cobblestone St.</street>
+    <city> Los Angeles</city>
+    <state> CA</state>
+    <zip> 90044</zip>
+    <country> USA</country>
+  </address>
+</customer>
+<customer>
+  <customerCode>hfyspr</customerCode>
+  <customerType>P</customerType>
+  <customerName>Kreifels Jake</customerName>
+  <contactCode>sd2H</contactCode>
+  <address>
+    <street>7 Valley View Lane</street>
+    <city> Fresno</city>
+    <state> CA</state>
+    <zip> 93722</zip>
+    <country> USA</country>
+  </address>
+</customer>
+</customer>
